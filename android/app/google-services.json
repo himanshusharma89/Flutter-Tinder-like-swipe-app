@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335344742732",
+    "firebase_url": "https://flutter-swipe-app.firebaseio.com",
+    "project_id": "flutter-swipe-app",
+    "storage_bucket": "flutter-swipe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335344742732:android:06786c54a72d14216c9fe9",
+        "android_client_info": {
+          "package_name": "com.project.flutter_swipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335344742732-rl88ushplctav3gejd2uqlqcjpi8m702.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fKo4EYbnm8Ribx7_fc-mbBEgHZ1yS9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335344742732-rl88ushplctav3gejd2uqlqcjpi8m702.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
