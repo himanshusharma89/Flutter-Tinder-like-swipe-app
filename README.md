@@ -1,6 +1,6 @@
 # flutter_swipe_app
 
-A new Flutter application.
+A new Flutter application which show case cards swiping kind of similar to that of Tinder App.
 
 ## Getting Started
 
